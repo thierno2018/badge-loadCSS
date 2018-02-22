@@ -1,10 +1,9 @@
 # loadCSS
 
-[![dependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
+[![devDependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/dev-status.svg)](https://david-dm.org/thierno2018/badge-loadCSS?type=dev)
 
-
-A function for loading CSS asynchronously
-[c]2017 @scottjehl, @zachleat [Filament Group, Inc.](https://www.filamentgroup.com/)
+A functio loading CSS asynchronously
+[2017 @scottjehl, @zachleat [Filament Group, Inc.](https://www.filamentgroup.com/)
 Licensed MIT
 
 ## Why loadCSS?
