@@ -1,6 +1,6 @@
 # loadCSS
 
-
+[![dependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
 
 
 A function for loading CSS asynchronously
