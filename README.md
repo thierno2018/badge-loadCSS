@@ -1,5 +1,5 @@
 # loadCSS
-[![npm Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
+[![NPM version](http://img.shields.io/npm/v/fg-loadcss.svg)](https://www.npmjs.org/package/fg-loadcss)
 
 [![dependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
 
