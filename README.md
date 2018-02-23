@@ -1,4 +1,7 @@
 # loadCSS
+[![npm Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
+
+[![dependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/status.svg)](https://david-dm.org/thierno2018/badge-loadCSS)
 
 [![devDependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/dev-status.svg)](https://david-dm.org/thierno2018/badge-loadCSS?type=dev)
 
