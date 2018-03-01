@@ -1,6 +1,6 @@
 # loadCSS
 
-[![NPM version](http://img.shields.io/npm/v/badge-loadiCSS.svg)](https://www.npmjs.org/package/badge-loadCSS)[![NPM version](http://img.shields.io/npm/v/fg-loadcss.svg)](https://www.npmjs.org/package/fg-loadcss)[![dependencies Status](https://david-dm.org/filamentgroup/badge-loadCSS/status.svg)](https://david-dm.org/filamentgroup/badge-loadCSS)[![devDependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/dev-status.svg)](https://david-dm.org/thierno2018/badge-loadCSS?type=dev)
+[![NPM version](http://img.shields.io/npm/v/badge-loadiCSS.svg)](https://www.npmjs.org/package/badge-loadCSS)[![NPM version](http://img.shields.io/npm/v/fg-loadcss.svg)](https://www.npmjs.org/package/fg-loadcss)[![dependencies Status](https://david-dm.org/filamentgroup/loadCSS/status.svg)](https://david-dm.org/filamentgroup/loadCSS)[![devDependencies Status](https://david-dm.org/thierno2018/badge-loadCSS/dev-status.svg)](https://david-dm.org/thierno2018/badge-loadCSS?type=dev)
 
 
 A functio loading CSS asynchronously
